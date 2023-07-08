@@ -1,5 +1,7 @@
 # capital_guessing_game
 
+There are two branches in this repository one is for frontend and another one is for backend. Kindly run both using following instructions.
+
 ## Backend Setup
 
 The first thing to do is to clone the repository
@@ -46,3 +48,5 @@ start development server:
 ```sh
 $ npm start
 ```
+
+Open http://localhost:3000 to view it in your browser.
